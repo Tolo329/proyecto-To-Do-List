@@ -8,5 +8,13 @@
         "id": 2,
         "titulo": "Tomar cafe",
         "completada": true
+<<<<<<< HEAD
+=======
+    },
+    {
+        "id": 3,
+        "titulo": "Tomar una ducha",
+        "completada": false
+>>>>>>> 2cdbb73 (Entrega Integrante 3: Integración de Prioridad de Tarea)
     }
 ]
