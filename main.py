@@ -1,5 +1,6 @@
 from modules.menu import mostrar_menu
 from modules.operaciones import agregar_tarea, listar_tareas, completar_tarea
+from modules.pomodoro import ejecutar_pomodoro # <--- Importación
 
 def main():
     while True:
@@ -21,10 +22,15 @@ def main():
             completar_tarea(id_tarea)
 
         elif opcion == "4":
-            break
+            # Aquí simplemente llamamos a la función
+            ejecutar_pomodoro() 
 
+        elif opcion == "5":
+            break
         else:
             print("Opción inválida")
 
 if __name__ == "__main__":
     main()
+
+  # Version 2 - Pomodoro por Deivy Vargasss
