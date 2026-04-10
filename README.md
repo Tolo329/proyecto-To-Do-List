@@ -45,6 +45,6 @@ Para que el programa pueda enviar notificaciones a tu computadora, necesitas ins
     
 Integrantes:
 
-Alan Romero - Estructura básica de To-Do List
-Deivy Vargas - Integración de Temporizador Pomodoro
-Luis Luquez - Integración de Prioridad de Tarea
+Alan Romero - Estructura básica de To-Do List.
+Deivy Vargas - Integración de Temporizador Pomodoro.
+Luis Luquez - Integración de Prioridad de Tarea.
